@@ -35,7 +35,7 @@ This project employs SQL statements to perform data analysis on a simulated Aust
 | product_id | Unique identification attached to each product |
 | product_type  | The product category a product belongs to: Jacket, shirt, trousers |
 | product_name      |The name of the product  |
-| size         | The size of the product XS,S,M,L,XL |
+| size         | The size of the product (XS,S,M,L,XL) |
 |colour  | The colour of the products|
 |price| The price of the product|
 |quantity| The product inventory| 
