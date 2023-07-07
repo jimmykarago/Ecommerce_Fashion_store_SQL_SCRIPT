@@ -6,15 +6,15 @@ The database consists of 4 tables:
 
  Coloumn name   | Description  |
 | ------------- | ------------- |
-| customer_id | Content Cell  |
-| customer_name  | Content Cell  |
-| gender        |
-| age           |
-|home_address|
-|zip_code|
-|city|
-|state|
-|country|
+| customer_id | Unique identification attached to each customer |
+| customer_name  | The first and last name of each customer |
+| gender        | The gender the customer identifies with |
+| age           | The age of the customer  |
+|home_address| The home address of the customer|
+|zip_code| The zip code of the customer| 
+|city| The city whereby the customer resides |
+|state| The state whereby the customer resides| 
+|country| The country where the customer lives| 
 
 
 
