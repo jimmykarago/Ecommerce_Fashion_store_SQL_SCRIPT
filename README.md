@@ -27,18 +27,6 @@ This project employs SQL statements to perform data analysis on a simulated Aust
 |delivery_date| The date in which the delivery was made to the customer|
 
 
-**Products**
-
- Coloumn name   | Description  |
-| ------------- | ------------- |
-| product_id | Unique identification attached to each product |
-| product_type  | The product category a product belongs to: Jacket, shirt, trousers |
-| product_name      |The name of the product  |
-| size         | The size of the product XS,S,M,L,XL |
-|colour  | The colour of the products|
-|price| The price of the product|
-|quantity| The product inventory| 
-|description| A small description of the product  |
 
 **Products**
 
