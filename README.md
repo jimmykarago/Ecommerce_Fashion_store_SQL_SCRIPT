@@ -64,6 +64,8 @@ The database consists of 4 tables:
 |quantity  | The quanitity of items sold |
 |total_price| Revenue generated from the sale of an item |
 
+**ERD Design of the tables**
+
 
 
 
