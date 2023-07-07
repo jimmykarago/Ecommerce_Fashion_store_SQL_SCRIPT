@@ -21,7 +21,7 @@ This project employs SQL statements to perform data analysis on a simulated Aust
  Coloumn name   | Description  |
 | ------------- | ------------- |
 | order_id | Unique identification attached to each order made  |
-| customer  | The unique identification attached to each customer  |
+| customer_id  | The unique identification attached to each customer  |
 | payment      | The payement received by the customer |
 | order_date          | The date in which the order was placed   |
 |delivery_date| The date in which the delivery was made to the customer|
@@ -54,8 +54,10 @@ This project employs SQL statements to perform data analysis on a simulated Aust
 
 **ERD Design of the tables**
 
+![Untitled Diagram(2) drawio](https://github.com/jimmykarago/Ecommerce_Fashion_store_SQL_SCRIPT/assets/84075679/c57c5b55-c5de-40a5-a11d-99c19de4dcf4)
 
 
 
 
-![Untitled Diagram drawio](https://github.com/jimmykarago/Ecommerce_Fashion_store_SQL_SCRIPT/assets/84075679/0ae93a03-e9f9-4538-bce9-51004e71ef54)
+
+
