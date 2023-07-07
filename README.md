@@ -1,6 +1,6 @@
 # Ecommerce_Fashion_store_SQL_SCRIPT
-This is a project that utilizes SQL statements to analyze data of a fictional Australian fashion ecommerce store. The database can be found at https://www.kaggle.com/datasets/ruchi798/shopping-cart-database 
-The database consists of 4 tables: 
+This project employs SQL statements to perform data analysis on a simulated Australian fashion e-commerce store. The corresponding database can be accessed at https://www.kaggle.com/datasets/ruchi798/shopping-cart-database. The database comprises four distinct tables:
+
 
 **Customers**
 
